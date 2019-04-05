@@ -1,0 +1,10 @@
+C:\Users\KEMURI\Desktop\assignment\ista 220\LAB\LAB 5B\The House of Coffee\The House of Coffee\bin\Debug\The House of Coffee.exe.config
+C:\Users\KEMURI\Desktop\assignment\ista 220\LAB\LAB 5B\The House of Coffee\The House of Coffee\bin\Debug\The House of Coffee.exe
+C:\Users\KEMURI\Desktop\assignment\ista 220\LAB\LAB 5B\The House of Coffee\The House of Coffee\bin\Debug\The House of Coffee.pdb
+C:\Users\KEMURI\Desktop\assignment\ista 220\LAB\LAB 5B\The House of Coffee\The House of Coffee\obj\Debug\The House of Coffee.csprojAssemblyReference.cache
+C:\Users\KEMURI\Desktop\assignment\ista 220\LAB\LAB 5B\The House of Coffee\The House of Coffee\obj\Debug\The House of Coffee.csproj.CoreCompileInputs.cache
+C:\Users\KEMURI\Desktop\assignment\ista 220\LAB\LAB 5B\The House of Coffee\The House of Coffee\obj\Debug\The House of Coffee.exe
+C:\Users\KEMURI\Desktop\assignment\ista 220\LAB\LAB 5B\The House of Coffee\The House of Coffee\obj\Debug\The House of Coffee.pdb
+C:\Users\KEMURI\Desktop\assignment\ista 220\LAB\LAB 5B\The House of Coffee\The House of Coffee\bin\Debug\Library.dll
+C:\Users\KEMURI\Desktop\assignment\ista 220\LAB\LAB 5B\The House of Coffee\The House of Coffee\bin\Debug\Library.pdb
+C:\Users\KEMURI\Desktop\assignment\ista 220\LAB\LAB 5B\The House of Coffee\The House of Coffee\obj\Debug\The House of Coffee.csproj.CopyComplete
